@@ -9,7 +9,7 @@ cli tool to interact with flow server
 updates environment with the given project and version
 
 ```sh
-npx pactum-flow-cli -u <user> -p <pass> --url <base-flow-url> --proj <project-id> --vers <version> --env <environment>
+npx pactum-flow-cli update environment -u <user> -p <pass> --url <base-flow-url> --proj <project-id> --vers <version> --env <environment>
 ```
 
 ### Environment Variables
